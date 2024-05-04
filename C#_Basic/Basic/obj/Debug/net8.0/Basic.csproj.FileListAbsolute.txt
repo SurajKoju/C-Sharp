@@ -1,0 +1,15 @@
+C:\Users\Koju\Desktop\Koju\C#\Basic\bin\Debug\net8.0\Basic.exe
+C:\Users\Koju\Desktop\Koju\C#\Basic\bin\Debug\net8.0\Basic.deps.json
+C:\Users\Koju\Desktop\Koju\C#\Basic\bin\Debug\net8.0\Basic.runtimeconfig.json
+C:\Users\Koju\Desktop\Koju\C#\Basic\bin\Debug\net8.0\Basic.dll
+C:\Users\Koju\Desktop\Koju\C#\Basic\bin\Debug\net8.0\Basic.pdb
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.AssemblyInfoInputs.cache
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.AssemblyInfo.cs
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.dll
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\refint\Basic.dll
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.pdb
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.genruntimeconfig.cache
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\ref\Basic.dll
+C:\Users\Koju\Desktop\Koju\C#\Basic\obj\Debug\net8.0\Basic.sourcelink.json
